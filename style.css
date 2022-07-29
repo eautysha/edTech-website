@@ -1,3 +1,7 @@
+*{
+    font-family: 'Merriweather';
+}
 .carousel-caption {
     background-color: rgba(0, 0, 0, 0.4);
 }
+
